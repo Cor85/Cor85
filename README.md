@@ -3,7 +3,9 @@
 <!--
 **Cor85/Cor85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Actualmente, estudio Desarrollo de apicaciones multiplataforma.
+**Actualmente, estudio Desarrollo de apicaciones multiplataforma**
+
+# Nuevas habilidades en desarrollo
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
