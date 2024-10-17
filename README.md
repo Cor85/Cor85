@@ -62,7 +62,16 @@ Estoy cursando el [Grado Superior en Desarrollo de Aplicaciones Multiplataforma]
 
 ## Preferencias Técnologias
 
+En esta etapa, estoy conciendo un mundo el cual pensaba que conocía, y la verdad es que no había visto todo lo que hay debajo del "iceberg". Hay tantas posibilidades..... Con lo poquito que he podido ver, y dado mi perfil, considero que encajaría muy bien en campos como **Anális de datos, Bases de datos, Programación**.... Pero lo cierto y verdad es que me llama mucho la atención el tema de la **IA**, y las ventajas que nos puede aportar siendo bien utilizada.
 
-> "NOS ENCONTRAMOS EN UNA NUEVA ERA"
+> **“De vez en cuando, una nueva tecnología, un antiguo problema y una gran idea se convierten en una innovación”**. _Dean Kamen. Creador del Segway y el iBOT_
+
+
+![image](https://github.com/user-attachments/assets/80d30df9-2e94-4ce1-a162-171eba2bf2cc) ![image](https://github.com/user-attachments/assets/6dcdf4d2-9595-49bf-9665-6a8af7fdfd79) ![image](https://github.com/user-attachments/assets/962d209b-c628-46af-b02f-458705404a36) 
+
+
+
+
+
 
 
