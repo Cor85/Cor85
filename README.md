@@ -12,6 +12,10 @@ Mi  nombre es Laura, y soy estudiante del [Centro integralde Formación profesio
 
 Estoy cursando el [Grado Superior en Desarrollo de Aplicaciones Multiplataforma](https://llegarasalto.com/guiafp/ciclos/IFC-322.html)
 
+Soy una persona :smile: , y me gusta investigar el :earth_asia:
+
+¿Que voy a :eyes:?
+
 ## ASIGNATURAS DEL PRIMER CURSO 
 
 - Programación
@@ -30,17 +34,17 @@ Estoy cursando el [Grado Superior en Desarrollo de Aplicaciones Multiplataforma]
 
 - Sistemas Operativos
 
-    1 Windows
+    1 [Windows](https://es.wikipedia.org/wiki/Microsoft_Windows)
 
-    2 ~~Linux~~
+    2 [Linux](https://es.wikipedia.org/wiki/GNU/Linux)
 
-    3 MacOs
+    3 [MacOs](https://es.wikipedia.org/wiki/Mac_OS)
 
 - CSS
 
 - JavaScrip 
 
-- Git
+- ~~Git~~
 
 - VsCode
 
