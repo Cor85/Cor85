@@ -50,6 +50,9 @@ Soy una persona :smile: , y me gusta investigar el :earth_asia:
 
 - Phyton
 
+  ![image](https://github.com/user-attachments/assets/dffca980-7535-447f-9b49-fb766dee1366)
+
+
 ---
 
 ## Starck Tecnologico del _Curso_
