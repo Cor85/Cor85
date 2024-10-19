@@ -60,7 +60,7 @@ Soy una persona :smile: , y me gusta investigar el :earth_asia:
 | React      | ORACLE        | Markdown           |    
 | Node.js    | MySQL         | HTML               | 
 | Expres     | Redis         | XML                |    
-|------------|---------------|--------------------|
+
 
 ---
 
