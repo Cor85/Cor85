@@ -30,6 +30,9 @@ Soy una persona :smile: , y me gusta investigar el :earth_asia:
 
 - Sistemas informaticos
 
+  ![image](https://github.com/user-attachments/assets/f6f57b31-c6d1-4e23-a0de-9e77db545c17)
+
+
 ## Starck Tecnológico _conocido_
 
 - Sistemas Operativos
